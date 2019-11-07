@@ -8,7 +8,7 @@ It draws the lines and rectangles that indicate the selected frame. Thus you can
 
 On the left: the lines drawn by the script, on the right: the text frame.
 
-
+Restrictions: only rectangular, non-rotated, non-skewed text and graphic frames. Everything else has to be postponed to V2.0 ;)
 
 
 
